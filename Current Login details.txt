@@ -1,2 +1,5 @@
-Username: imms
-Password: 123
+Username: user1
+Password: pass1
+
+Username: admin
+Password: admin
